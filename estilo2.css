@@ -1,0 +1,10 @@
+nav {
+    background-color: #37805c;
+    display: flex;
+    text-align: center;
+}
+
+button.btn{
+    background-color: #37805c;
+    color: white;
+}
