@@ -1,10 +1,10 @@
 nav {
-    background-color: #37805c;
+    background-color: #255523;
     display: flex;
     text-align: center;
 }
 
 button.btn{
-    background-color: #37805c;
+    background-color: #255523;
     color: white;
 }
